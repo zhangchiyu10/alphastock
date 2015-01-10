@@ -1,0 +1,117 @@
+
+#content {
+	width:"95%"; 
+}
+
+.accountarea {
+
+	color:#FFF;
+	
+}
+#accountinfo{
+	padding: 5px;
+
+}
+#jqt ul li {
+	padding: 5px;
+}
+.marketarea{
+	width:200px;
+	float: left;
+}
+
+.entrustsarea {
+
+	margin-top: 150px;
+}
+
+.markettitle{
+	color:#FFF;	
+}
+
+.market {
+	margin-top: 5px;	
+	
+}
+.markettable {
+	color:#FFF;
+}
+#bstitle {
+	color: #FFF;
+}
+#buy {
+	color: #0F0;
+}
+#sell {
+	color: #F00;
+}
+#marketprice {
+	color: #FF0;
+}
+
+.accounttitle {
+	font-size: 18px;
+	font-weight: bolder;
+	font-style: italic;
+	color: #FFF;	
+	margin-left: 20;
+}
+#accountinfo {
+	color: #FF0;
+
+}
+
+#order {
+	width: 200px;
+margin-right: 5px;
+margin-left: 5px;
+}
+#block1{
+	float:botton;
+}
+.dealsleft {
+	margin-top: 5px;
+}
+#entrusts {
+	color: #FFF;
+}
+
+#price {
+	position: relative;
+	width: 100px;
+}
+#hand {
+	position: relative;
+	width: 100px;
+	margin-top: 5px;
+margin-bottom: 5px;
+}
+.btn {
+display: inline-block;
+padding: 6px 12px;
+margin-bottom: 0;
+font-size: 14px;
+font-weight: 400;
+line-height: 1.42857143;
+text-align: center;
+white-space: nowrap;
+vertical-align: middle;
+cursor: pointer;
+background-image: none;
+border: 1px solid transparent;
+border-radius: 4px;
+}
+.btn-red {
+color: #fff;
+background-color: #d9534f;
+border-color: #d43f3a;
+}
+.btn-green {
+color: #fff;
+background-color: #5cb85c;
+border-color: #4cae4c;
+}
+.btn-black {
+color: #fff;
+background-color: #000000;
+}
